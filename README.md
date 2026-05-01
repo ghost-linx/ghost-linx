@@ -5,6 +5,6 @@
 
 <div align="center">
 
-[atab](https://empool.atabook.org)&nbsp;𓏵
+[atab](https://empool.atabook.org)&nbsp;×
 [main](https://github.com/ghostly-sorrows)
 
